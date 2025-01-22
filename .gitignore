@@ -1,0 +1,19 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build and dist directories
+build/
+dist/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore specific files or folders
+01bgChanger/
+example.txt
